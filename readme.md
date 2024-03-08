@@ -33,6 +33,15 @@ This folder contains notebooks implementing various machine learning models for 
   - `Iris.ipynb`: Contains classification models trained on the Iris dataset.
 - **Try_linear_regression**: Notebook experimenting with Linear Regression for predictive modeling.
 
+## Libraries Used
+
+- These notebooks utilize the following libraries:
+  - `scikit-learn`: For machine learning algorithms and tools.
+  - `matplotlib`: For data visualization.
+  - `pandas`: For data manipulation and analysis.
+  - `numpy`: For numerical computing.
+  - `opencv`: For image processing and computer vision tasks.
+
 ## Usage
 
 1. Clone this repository to your local machine or download the notebooks individually.
